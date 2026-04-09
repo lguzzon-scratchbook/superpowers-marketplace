@@ -75,6 +75,27 @@ Add this marketplace to Claude Code:
 
 ---
 
+### Private Journal MCP
+
+**Description:** Private journaling MCP server with semantic search
+
+**Categories:** Journaling, Memory, MCP
+
+**Install:**
+```bash
+/plugin install private-journal-mcp@superpowers-marketplace
+```
+
+**What you get:**
+- Multi-section private journaling (feelings, project notes, technical insights, user context, world knowledge)
+- Local AI semantic search via embeddings
+- Read recent entries with full content retrieval
+- Dual storage: project-local and user-global journals
+
+**Repository:** https://github.com/obra/private-journal-mcp
+
+---
+
 ## Marketplace Structure
 
 ```
